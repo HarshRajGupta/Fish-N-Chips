@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb030ec7.chunk.css",
+    "main.js": "/static/js/main.e4b5ec8d.chunk.js",
+    "main.js.map": "/static/js/main.e4b5ec8d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17611665.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17611665.js.map",
+    "static/css/2.a498ec6d.chunk.css": "/static/css/2.a498ec6d.chunk.css",
+    "static/js/2.c1e307f3.chunk.js": "/static/js/2.c1e307f3.chunk.js",
+    "static/js/2.c1e307f3.chunk.js.map": "/static/js/2.c1e307f3.chunk.js.map",
+    "static/js/3.2d11574a.chunk.js": "/static/js/3.2d11574a.chunk.js",
+    "static/js/3.2d11574a.chunk.js.map": "/static/js/3.2d11574a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a498ec6d.chunk.css.map": "/static/css/2.a498ec6d.chunk.css.map",
+    "static/css/main.fb030ec7.chunk.css.map": "/static/css/main.fb030ec7.chunk.css.map",
+    "static/js/2.c1e307f3.chunk.js.LICENSE.txt": "/static/js/2.c1e307f3.chunk.js.LICENSE.txt",
+    "static/media/fish-n-chips-logo.44468375.png": "/static/media/fish-n-chips-logo.44468375.png",
+    "static/media/pacific-haliput.c75c80d7.png": "/static/media/pacific-haliput.c75c80d7.png",
+    "static/media/red-groper.45f196c4.jpg": "/static/media/red-groper.45f196c4.jpg",
+    "static/media/white-marlin.d81e3a93.jpg": "/static/media/white-marlin.d81e3a93.jpg",
+    "static/media/yellowfin-tuna.c47b0b9a.png": "/static/media/yellowfin-tuna.c47b0b9a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17611665.js",
+    "static/css/2.a498ec6d.chunk.css",
+    "static/js/2.c1e307f3.chunk.js",
+    "static/css/main.fb030ec7.chunk.css",
+    "static/js/main.e4b5ec8d.chunk.js"
+  ]
+}
