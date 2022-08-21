@@ -15,8 +15,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 body::-webkit-scrollbar-thumb:hover {
-  background: #ED5565;
-  box-shadow: 120px 80px 40px 20px #ED5565 !important;
+  background: #ed5565;
+  box-shadow: 120px 80px 40px 20px #ed5565 !important;
 }
 
 body {
@@ -165,13 +165,13 @@ body {
   border-radius: 50%;
   color: white;
   z-index: 1000;
-  box-shadow: inset 0 0 40px rgb(25, 109, 165),0 0 20px 5px rgb(25, 109, 165);
+  box-shadow: inset 0 0 40px rgb(25, 109, 165), 0 0 20px 5px rgb(25, 109, 165);
 }
 
 .red-flags {
   background-color: black;
-  height: calc( 100% - 10px );
-  width: calc( 100% - 10px );
+  height: calc(100% - 10px);
+  width: calc(100% - 10px);
   margin-bottom: 10px;
   margin-right: 10px;
   border-radius: 20px;
@@ -181,7 +181,7 @@ body {
   align-items: center;
 }
 
-.date-selectors, 
+.date-selectors,
 .fetch-data {
   display: flex;
   flex-direction: row;
@@ -192,7 +192,7 @@ body {
 }
 
 .grid {
-  background-color: #ED5565;
+  background-color: #ed5565;
   flex: 8;
   width: 100%;
   padding: 20px;
@@ -245,7 +245,7 @@ body {
   height: 100%;
 }
 
-.reports{
+.reports {
   margin: 10px;
   width: 90%;
   height: 90%;
@@ -271,7 +271,7 @@ body {
   box-shadow: 0 0 10px white !important;
 }
 
-.report-content{
+.report-content {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -298,8 +298,8 @@ body {
 
 .fish-vul {
   background-color: black;
-  width: calc( 100% - 10px );
-  height: calc( 100% - 10px );
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
   border-radius: 20px;
   margin-right: 10px;
   margin-bottom: 10px;
@@ -345,7 +345,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-
 
 .gis-btn:hover {
   background-color: transparent !important;
@@ -408,11 +407,11 @@ body {
   flex: 1;
 }
 
-.bid_price  {
+.bid_price {
   flex: 1;
 }
 
-.more_details  {
+.more_details {
   flex: 1;
 }
 
@@ -453,5 +452,5 @@ body {
 
 .bid-entry-value {
   margin-left: 20px;
-  color: #ED5565;
+  color: #ed5565;
 }
