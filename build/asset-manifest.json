@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8821c14c.chunk.css",
-    "main.js": "/static/js/main.9ae473ce.chunk.js",
-    "main.js.map": "/static/js/main.9ae473ce.chunk.js.map",
+    "main.js": "/static/js/main.6b3af301.chunk.js",
+    "main.js.map": "/static/js/main.6b3af301.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.17611665.js",
     "runtime-main.js.map": "/static/js/runtime-main.17611665.js.map",
     "static/css/2.a498ec6d.chunk.css": "/static/css/2.a498ec6d.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.a498ec6d.chunk.css.map": "/static/css/2.a498ec6d.chunk.css.map",
     "static/css/main.8821c14c.chunk.css.map": "/static/css/main.8821c14c.chunk.css.map",
     "static/js/2.c1e307f3.chunk.js.LICENSE.txt": "/static/js/2.c1e307f3.chunk.js.LICENSE.txt",
-    "static/media/fish-n-chips-logo.44468375.png": "/static/media/fish-n-chips-logo.44468375.png",
+    "static/media/fish-n-chips-logo.ca8fa943.png": "/static/media/fish-n-chips-logo.ca8fa943.png",
     "static/media/pacific-haliput.c75c80d7.png": "/static/media/pacific-haliput.c75c80d7.png",
     "static/media/red-groper.45f196c4.jpg": "/static/media/red-groper.45f196c4.jpg",
     "static/media/white-marlin.d81e3a93.jpg": "/static/media/white-marlin.d81e3a93.jpg",
@@ -25,6 +25,6 @@
     "static/css/2.a498ec6d.chunk.css",
     "static/js/2.c1e307f3.chunk.js",
     "static/css/main.8821c14c.chunk.css",
-    "static/js/main.9ae473ce.chunk.js"
+    "static/js/main.6b3af301.chunk.js"
   ]
 }
