@@ -26,34 +26,26 @@ const DownloadReports = () => {
           <div className="report-title">White Marlin</div>
           <div className="report-content">
             <img src={WhiteMarlin} className="fish-img" />
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=white-marlin",
-                  "white-marlin.pdf"
-                )
-              }
+            <a
+            target={"_blank"}
+              href={"http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=white-marlin"}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
         <div className="reports">
           <div className="report-title">Pacific Halibut</div>
           <div className="report-content">
             <img src={PacificHaliput} className="fish-img" />
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=pacific-halibut",
-                  "pacific-halibut.pdf"
-                )
-              }
+            <a
+            target={'_blank'}
+             href={"http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=pacific-halibut"}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
       </div>
@@ -62,34 +54,26 @@ const DownloadReports = () => {
           <div className="report-title">Red Grouper</div>
           <div className="report-content">
             <img src={RedGroper} className="fish-img" />
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=red-grouper",
-                  "red-groper.pdf"
-                )
-              }
+            <a
+            target={"_blank"}
+              href={"http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=red-grouper"}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
         <div className="reports">
           <div className="report-title">Yellowfin Tuna</div>
           <div className="report-content">
             <img src={YellowFin} className="fish-img" />
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=yellowfin-tuna",
-                  "yellofin-tuna.pdf"
-                )
-              }
+            <a
+            target={'_blank'}
+              href={'http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=yellowfin-tuna'}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
       </div>

@@ -20,7 +20,7 @@ const GIS = () => {
       data.append("title", title);
       data.append("file", file);
       axios
-        .post("http://asean-hackathon2021.herokuapp.com/files/", data, {})
+        .post("http://fish-n-chip.herokuapp.com/files/", data, {})
         .then((res) => {
           setId(res.data.id);
         });
@@ -31,7 +31,7 @@ const GIS = () => {
     if (id === "") {
       window.alert("Upload the file first!!!");
     } else {
-      window.location = `http://asean-hackathon2021.herokuapp.com/download?file_type=kml&file_id=${id}`;
+      window.location = `http://fish-n-chip.herokuapp.com/download?file_type=kml&file_id=${id}`;
     }
   };
 

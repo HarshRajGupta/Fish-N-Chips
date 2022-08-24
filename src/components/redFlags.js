@@ -19,7 +19,7 @@ const RedFlags = () => {
       endd = endd.slice(1, 11);
       const data = { start: std, end: endd };
       axios
-        .post("http://asean-hackathon2021.herokuapp.com/entry-details/", data)
+        .post("http://fish-n-chip.herokuapp.com/entry-details/", data)
         .then((res) => setData(res.data))
         .catch((err) => console.log(err));
     } else {

@@ -21,33 +21,25 @@ const Analytics = () => {
         <div className="reports">
           <div className="report-title">Report 1</div>
           <div className="report-content">
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=report-1",
-                  "report-1.pdf"
-                )
-              }
+            <a
+              href="http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=report-1"
+              target={'_blank'}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
         <div className="reports">
           <div className="report-title">Report 2</div>
           <div className="report-content">
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=report-2",
-                  "report-2.pdf"
-                )
-              }
+            <a
+              href={'http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=report-2'}
+              target={'_blank'}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
       </div>
@@ -55,33 +47,25 @@ const Analytics = () => {
         <div className="reports">
           <div className="report-title">Report 3</div>
           <div className="report-content">
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=report-3",
-                  "report-3.pdf"
-                )
-              }
+            <a
+            target={"_blank"}
+              href={'http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=report-3'}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
         <div className="reports">
           <div className="report-title">Report 4</div>
           <div className="report-content">
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=report-4",
-                  "report-4.pdf"
-                )
-              }
+            <a
+              href={"http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=report-4"}
               className="download-btn btn btn-dark"
+              target={'_blank'}
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
       </div>
@@ -89,33 +73,25 @@ const Analytics = () => {
         <div className="reports">
           <div className="report-title">Report 5</div>
           <div className="report-content">
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=report-5",
-                  "report-5.pdf"
-                )
-              }
+            <a
+            target={'_blank'}
+             href={'http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=report-5'}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
         <div className="reports">
           <div className="report-title">Report 6</div>
           <div className="report-content">
-            <div
-              onClick={() =>
-                download(
-                  "http://asean-hackathon2021.herokuapp.com/download/?file_type=report&fish_name=report-6",
-                  "report-6.pdf"
-                )
-              }
+            <a
+            target={"_blank"}
+              href={"http://fish-n-chip.herokuapp.com/download/?file_type=report&fish_name=report-6"}
               className="download-btn btn btn-dark"
             >
               Download
-            </div>
+            </a>
           </div>
         </div>
       </div>
