@@ -89,7 +89,7 @@ const Map = ({ map }) => {
             frameborder="0"
             scrolling="no"
             allowfullscreen
-            src="https://arcg.is/1H04Gn0"
+            src="https://learngis2.maps.arcgis.com/home/webscene/viewer.html?webscene=b3b8ba46648f4bb2bd022fa38ef0feef&viewpoint=cam%3A76.70036633%2C13.55894247%2C5083460.184%3B4.216%2C0.281&ui=min"
           ></iframe>
         </div>
       ) : null}
